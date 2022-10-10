@@ -1,12 +1,6 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\BlazorWebAssApp",
-    "\\BlazorWebAssApp\\BlazorWebAssApp\\obj",
-    "\\BlazorWebAssApp\\BlazorWebAssApp\\Pages",
-    "\\BlazorWebAssApp\\BlazorWebAssApp\\Properties",
-    "\\BlazorWebAssApp\\BlazorWebAssApp\\wwwroot"
+    ""
   ],
-  "SelectedNode": "\\BlazorWebAssApp\\BlazorWebAssApp.sln",
   "PreviewInSolutionExplorer": false
 }
