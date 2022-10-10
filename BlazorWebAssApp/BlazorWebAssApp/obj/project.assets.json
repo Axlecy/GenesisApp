@@ -1546,42 +1546,27 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Axle\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\user\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\AxleDev2022\\AxleRep\\BlazorWebAssApp\\BlazorWebAssApp\\BlazorWebAssApp.csproj",
+      "projectUniqueName": "D:\\Repos\\Axlecy\\GenesisApp\\BlazorWebAssApp\\BlazorWebAssApp\\BlazorWebAssApp.csproj",
       "projectName": "BlazorWebAssApp",
-      "projectPath": "E:\\AxleDev2022\\AxleRep\\BlazorWebAssApp\\BlazorWebAssApp\\BlazorWebAssApp.csproj",
-      "packagesPath": "C:\\Users\\Axle\\.nuget\\packages\\",
-      "outputPath": "E:\\AxleDev2022\\AxleRep\\BlazorWebAssApp\\BlazorWebAssApp\\obj\\",
+      "projectPath": "D:\\Repos\\Axlecy\\GenesisApp\\BlazorWebAssApp\\BlazorWebAssApp\\BlazorWebAssApp.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "D:\\Repos\\Axlecy\\GenesisApp\\BlazorWebAssApp\\BlazorWebAssApp\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Axle\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
-        "E:\\AxleDev2020\\Blazor\\AppWorkBlazorApp9\\Support\\Syncfusion.EJ2.Blazor.17.4.0.46-1062011802": {},
-        "http://nuget.syncfusion.com/nuget_wpf/nuget/getsyncfusionpackages/wpf": {},
-        "http://nuget.syncfusion.com/nuget_xamarin/nuget/getsyncfusionpackages/xamarin/": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://nuget.syncfusion.com/nuget_universalwindows/nuget/getsyncfusionpackages/universalwindows": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
@@ -1622,7 +1607,7 @@
         "downloadDependencies": [
           {
             "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
-            "version": "[6.0.1, 6.0.1]"
+            "version": "[6.0.8, 6.0.8]"
           }
         ],
         "frameworkReferences": {
@@ -1630,7 +1615,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200-preview.22055.15\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.303\\RuntimeIdentifierGraph.json"
       }
     },
     "runtimes": {

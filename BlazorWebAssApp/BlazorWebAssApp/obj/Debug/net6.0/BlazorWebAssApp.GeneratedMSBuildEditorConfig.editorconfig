@@ -11,49 +11,53 @@ build_property.EnableTrimAnalyzer = true
 build_property.IncludeAllContentForSelfExtract = 
 build_property.RootNamespace = BlazorWebAssApp
 build_property.RootNamespace = BlazorWebAssApp
-build_property.ProjectDir = E:\AxleDev2022\AxleRep\BlazorWebAssApp\BlazorWebAssApp\
+build_property.ProjectDir = D:\Repos\Axlecy\GenesisApp\BlazorWebAssApp\BlazorWebAssApp\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = E:\AxleDev2022\AxleRep\BlazorWebAssApp\BlazorWebAssApp
+build_property.MSBuildProjectDirectory = D:\Repos\Axlecy\GenesisApp\BlazorWebAssApp\BlazorWebAssApp
 build_property._RazorSourceGeneratorDebug = 
 
-[E:/AxleDev2022/AxleRep/BlazorWebAssApp/BlazorWebAssApp/App.razor]
+[D:/Repos/Axlecy/GenesisApp/BlazorWebAssApp/BlazorWebAssApp/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/AxleDev2022/AxleRep/BlazorWebAssApp/BlazorWebAssApp/Pages/Counter.razor]
+[D:/Repos/Axlecy/GenesisApp/BlazorWebAssApp/BlazorWebAssApp/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/AxleDev2022/AxleRep/BlazorWebAssApp/BlazorWebAssApp/Pages/FetchData.razor]
+[D:/Repos/Axlecy/GenesisApp/BlazorWebAssApp/BlazorWebAssApp/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/AxleDev2022/AxleRep/BlazorWebAssApp/BlazorWebAssApp/Pages/FirstPage.razor]
+[D:/Repos/Axlecy/GenesisApp/BlazorWebAssApp/BlazorWebAssApp/Pages/FirstPage.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmlyc3RQYWdlLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/AxleDev2022/AxleRep/BlazorWebAssApp/BlazorWebAssApp/Pages/Index.razor]
+[D:/Repos/Axlecy/GenesisApp/BlazorWebAssApp/BlazorWebAssApp/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/AxleDev2022/AxleRep/BlazorWebAssApp/BlazorWebAssApp/Pages/SecondPage.razor]
+[D:/Repos/Axlecy/GenesisApp/BlazorWebAssApp/BlazorWebAssApp/Pages/SecondPage.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2Vjb25kUGFnZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/AxleDev2022/AxleRep/BlazorWebAssApp/BlazorWebAssApp/Shared/SurveyPrompt.razor]
+[D:/Repos/Axlecy/GenesisApp/BlazorWebAssApp/BlazorWebAssApp/Pages/ThirdPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGhpcmRQYWdlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Repos/Axlecy/GenesisApp/BlazorWebAssApp/BlazorWebAssApp/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/AxleDev2022/AxleRep/BlazorWebAssApp/BlazorWebAssApp/_Imports.razor]
+[D:/Repos/Axlecy/GenesisApp/BlazorWebAssApp/BlazorWebAssApp/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/AxleDev2022/AxleRep/BlazorWebAssApp/BlazorWebAssApp/Shared/MainLayout.razor]
+[D:/Repos/Axlecy/GenesisApp/BlazorWebAssApp/BlazorWebAssApp/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-3q9qm1p0y3
 
-[E:/AxleDev2022/AxleRep/BlazorWebAssApp/BlazorWebAssApp/Shared/NavMenu.razor]
+[D:/Repos/Axlecy/GenesisApp/BlazorWebAssApp/BlazorWebAssApp/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-db4v1c5ls1

@@ -1,7 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\BlazorWebAssApp",
+    "\\BlazorWebAssApp\\BlazorWebAssApp\\obj",
+    "\\BlazorWebAssApp\\BlazorWebAssApp\\Pages",
+    "\\BlazorWebAssApp\\BlazorWebAssApp\\Properties",
+    "\\BlazorWebAssApp\\BlazorWebAssApp\\wwwroot"
   ],
-  "SelectedNode": "\\E:\\AxleDev2022\\AxleRep",
+  "SelectedNode": "\\BlazorWebAssApp\\BlazorWebAssApp.sln",
   "PreviewInSolutionExplorer": false
 }
