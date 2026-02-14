@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\.github",
+    "\\BlazorWebAssApp"
   ],
+  "SelectedNode": "\\BlazorWebAssApp\\BlazorWebAssApp.sln",
   "PreviewInSolutionExplorer": false
 }
