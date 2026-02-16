@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "3b74FAR2vpw=",
+  "dgSpecHash": "ysGpQweLmK0=",
   "success": true,
   "projectFilePath": "C:\\Users\\user\\source\\repos\\Axlecy\\GenesisApp\\BlazorWebAssApp\\BlazorWebAssApp\\BlazorWebAssApp.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.3\\microsoft.aspnetcore.app.internal.assets.10.0.3.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.internal.assets\\10.0.2\\microsoft.aspnetcore.app.internal.assets.10.0.2.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.authorization\\10.0.3\\microsoft.aspnetcore.authorization.10.0.3.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.components\\10.0.3\\microsoft.aspnetcore.components.10.0.3.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\10.0.3\\microsoft.aspnetcore.components.analyzers.10.0.3.nupkg.sha512",
@@ -13,7 +13,7 @@
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\10.0.3\\microsoft.aspnetcore.components.webassembly.10.0.3.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly.devserver\\10.0.3\\microsoft.aspnetcore.components.webassembly.devserver.10.0.3.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.metadata\\10.0.3\\microsoft.aspnetcore.metadata.10.0.3.nupkg.sha512",
-    "C:\\Users\\user\\.nuget\\packages\\microsoft.dotnet.hotreload.webassembly.browser\\10.0.103\\microsoft.dotnet.hotreload.webassembly.browser.10.0.103.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.dotnet.hotreload.webassembly.browser\\10.0.102\\microsoft.dotnet.hotreload.webassembly.browser.10.0.102.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.configuration\\10.0.3\\microsoft.extensions.configuration.10.0.3.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\10.0.3\\microsoft.extensions.configuration.abstractions.10.0.3.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.configuration.binder\\10.0.3\\microsoft.extensions.configuration.binder.10.0.3.nupkg.sha512",
@@ -34,8 +34,18 @@
     "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.validation\\10.0.3\\microsoft.extensions.validation.10.0.3.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.jsinterop\\10.0.3\\microsoft.jsinterop.10.0.3.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.jsinterop.webassembly\\10.0.3\\microsoft.jsinterop.webassembly.10.0.3.nupkg.sha512",
-    "C:\\Users\\user\\.nuget\\packages\\microsoft.net.illink.tasks\\10.0.3\\microsoft.net.illink.tasks.10.0.3.nupkg.sha512",
-    "C:\\Users\\user\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\10.0.3\\microsoft.net.sdk.webassembly.pack.10.0.3.nupkg.sha512"
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.net.illink.tasks\\10.0.2\\microsoft.net.illink.tasks.10.0.2.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\10.0.2\\microsoft.net.sdk.webassembly.pack.10.0.2.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Problem reading the cache file C:\\Users\\user\\source\\repos\\Axlecy\\GenesisApp\\BlazorWebAssApp\\BlazorWebAssApp\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0.",
+      "projectPath": "C:\\Users\\user\\source\\repos\\Axlecy\\GenesisApp\\BlazorWebAssApp\\BlazorWebAssApp\\BlazorWebAssApp.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\user\\source\\repos\\Axlecy\\GenesisApp\\BlazorWebAssApp\\BlazorWebAssApp\\BlazorWebAssApp.csproj",
+      "targetGraphs": []
+    }
+  ]   
 }
